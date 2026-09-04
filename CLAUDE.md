@@ -13,6 +13,7 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
   - Uniform (tie, PE polo, grey shirts) arrived.
   - Shoes ordered: black school shoes + white PE shoes (check delivery).
   - Behaviour Policy Parents Acknowledgement Form — done (completed by Daniel).
+  - Intimate Care Policy 2026-2027 Consent Form — done.
 
 ## Daily school brief preferences
 
