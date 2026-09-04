@@ -16,5 +16,5 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
 
 ## Daily school brief preferences
 
-- The "not using Early Morning Club / Sibling Extended Day Club" note should only appear in the **Monday** brief (as a standing FYI for the week), not repeated on Tuesday–Friday. Briefly explain what each club is (Early Morning Club = wraparound care from 8.10am, open to any family; Sibling Extended Day Club = care until 3.45pm for boys with siblings on different schedules elsewhere in the school), so the note is self-explanatory without needing to check old emails.
+- The Early Morning Club / Sibling Extended Day Club note should only appear in the **Monday** brief (as a standing FYI for the week), not repeated on Tuesday–Friday. Lead with what each club is, then note we're not using them, e.g.: "Arnold House offers an Early Morning Club (wraparound care from 8.10am, open to any family) and a Sibling Extended Day Club (care until 3.45pm for boys with siblings in the school on different schedules) — we're not using either, no action needed unless that changes."
 - Include the drop-off window (8.20–8.45am) and pickup time (3.30pm) in every daily brief.
