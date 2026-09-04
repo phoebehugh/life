@@ -15,6 +15,10 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
   - Behaviour Policy Parents Acknowledgement Form — done (completed by Daniel).
   - Intimate Care Policy 2026-2027 Consent Form — done.
 
+## Tapestry
+
+- Access was restored as of ~7 September 2026 (school had disabled it while relinking parent accounts). Should be usable again — no need to keep flagging it as offline in daily briefs.
+
 ## Daily school brief preferences
 
 - The Early Morning Club / Sibling Extended Day Club note should only appear in the **Monday** brief (as a standing FYI for the week), not repeated on Tuesday–Friday. Lead with what each club is, then note we're not using them, e.g.: "Arnold House offers an Early Morning Club (wraparound care from 8.10am, open to any family) and a Sibling Extended Day Club (care until 3.45pm for boys with siblings in the school on different schedules) — we're not using either, no action needed unless that changes."
