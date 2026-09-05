@@ -18,7 +18,10 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
 ## Tapestry
 
 - Access was restored as of ~7 September 2026 (school had disabled it while relinking parent accounts). Should be usable again — no need to keep flagging it as offline in daily briefs.
-- No automated access to Tapestry itself (no login/connector available) — the school-check automation can only reflect what arrives via Arnold House emails. If homework/photos/observations are posted only inside the Tapestry app with no accompanying email, the brief won't see them. Don't imply Tapestry content was checked when it wasn't.
+- No automated login access to Tapestry itself (no connector, and its app content is only readable in a real JS-capable browser, which this automation doesn't have). Never attempt to log into Tapestry or fetch its pages directly — it doesn't work from here and isn't worth retrying.
+- Tapestry sends a "Weekly Notification Summary" email from **noreply@tapestryjournal.com** (subject like "Recent Arnold House School Notifications") listing new observations/memos/etc. by title, author, and timestamp, each linking back to Tapestry. It only lists what was posted — no actual content/text, since that requires opening the link in a real browser.
+- This currently goes to Daniel's account (dan.land@mac.com) — Daniel has been forwarding it to phoebehugh@gmail.com manually. Ideally set up an auto-forward rule from his account so this happens automatically; check whether that's been done.
+- In the school-check automation: search Gmail for emails from noreply@tapestryjournal.com (or forwards of them, e.g. from daniel@donttelldad.co.uk) and include what they list (titles + links, e.g. "New observation: 'The Week Ahead' — [link]") in the Saturday weekly roundup. Be clear this is just a list of what was posted, not a summary of its actual content, since the brief can't read what's behind the links.
 
 ## Daily school brief preferences
 
@@ -30,4 +33,5 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
 ## Saturday weekly summary
 
 - Saturday's brief (in addition to the usual daily content) should be a longer, weekly-roundup version: highlights from the week's Arnold House emails (events, announcements, things covered), plus anything still open heading into next week. Fine for it to run longer than the weekday briefs.
-- This can only draw on what arrived via email — see the Tapestry limitation above. Don't claim to have checked Tapestry itself.
+- Also include a "Tapestry this week" section listing anything found in a Tapestry Weekly Notification Summary email (see Tapestry section above) — titles + links, clearly labelled as a list of what was posted rather than a content summary.
+- This can only draw on what arrived via email — see the Tapestry limitation above. Don't claim to have checked Tapestry itself or browsed its content.
