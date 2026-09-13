@@ -35,3 +35,22 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
 - Saturday's brief (in addition to the usual daily content) should be a longer, weekly-roundup version: highlights from the week's Arnold House emails (events, announcements, things covered), plus anything still open heading into next week. Fine for it to run longer than the weekday briefs.
 - Also include a "Tapestry this week" section listing anything found in a Tapestry Weekly Notification Summary email (see Tapestry section above) — titles + links, clearly labelled as a list of what was posted rather than a content summary.
 - This can only draw on what arrived via email — see the Tapestry limitation above. Don't claim to have checked Tapestry itself or browsed its content.
+
+## School reports (Google Drive)
+
+- Termly reports are filed in Google Drive at **Ralph / School reports**
+  (folder id `1-1pCKIbETgOHjOAfUqXOyQSs7USFPu9u`), keeping the school's own
+  filename, e.g. "PR Summer Term 2025 - Land_Ralph(153910026897).pdf".
+- Arnold House emails a notification ("<Term> Report", from
+  post@arnoldhouse.schoolpostmail.co.uk) with a link to the PDF — the report
+  is never attached; it lives on the Parent Portal at
+  arnoldhouse.schoolpost.co.uk.
+- **arnoldhouse.schoolpost.co.uk is blocked by this environment's network
+  egress policy**, so the automation cannot download report PDFs itself. Don't
+  retry fetching them. The most it can do is surface the direct PDF link from
+  the email so the file can be downloaded and dropped into the folder by hand
+  (or emailed in as an attachment).
+- The school recommends downloading each report as it arrives — Parent Portal
+  access ends once you're no longer an AH parent.
+- **Outstanding:** Summer Term 2026 report (emailed 15 July 2026) is not yet in
+  the Drive folder.
