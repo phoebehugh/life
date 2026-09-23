@@ -19,9 +19,9 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
 
 - Access was restored as of ~7 September 2026 (school had disabled it while relinking parent accounts). Should be usable again — no need to keep flagging it as offline in daily briefs.
 - No automated login access to Tapestry itself (no connector, and its app content is only readable in a real JS-capable browser, which this automation doesn't have). Never attempt to log into Tapestry or fetch its pages directly — it doesn't work from here and isn't worth retrying.
-- Tapestry sends a "Weekly Notification Summary" email from **noreply@tapestryjournal.com** (subject like "Recent Arnold House School Notifications") listing new observations/memos/etc. by title, author, and timestamp, each linking back to Tapestry. It only lists what was posted — no actual content/text, since that requires opening the link in a real browser.
-- This currently goes to Daniel's account (dan.land@mac.com) — Daniel has been forwarding it to phoebehugh@gmail.com manually. Ideally set up an auto-forward rule from his account so this happens automatically; check whether that's been done.
-- In the school-check automation: search Gmail for emails from noreply@tapestryjournal.com (or forwards of them, e.g. from daniel@donttelldad.co.uk) and include what they list (titles + links, e.g. "New observation: 'The Week Ahead' — [link]") in the Saturday weekly roundup. Be clear this is just a list of what was posted, not a summary of its actual content, since the brief can't read what's behind the links.
+- Correction (observed as of 23 Sept 2026): Tapestry does not actually send a "Weekly Notification Summary" digest — it sends one **individual** email per notification, subject "Arnold House School Notification", from **noreply@tapestryjournal.com**, each naming one observation/memo by title, author, and timestamp with a link back to Tapestry. These arrive **directly at phoebehugh@gmail.com already** (several a day is normal) — the auto-forward question below is moot; no action needed there. Each email only names what was posted — no actual content/text, since that requires opening the link in a real browser.
+- Historical context: this used to go to Daniel's account (dan.land@mac.com) and he forwarded manually (e.g. from daniel@donttelldad.co.uk); that's no longer how it arrives, per the above.
+- In the school-check automation: search Gmail for emails from noreply@tapestryjournal.com with subject "Arnold House School Notification" (or older forwards from daniel@donttelldad.co.uk) and include what they list (titles + links, e.g. "New observation: 'The Week Ahead' — [link]") in the Saturday weekly roundup. Be clear this is just a list of what was posted, not a summary of its actual content, since the brief can't read what's behind the links.
 
 ## Daily school brief preferences
 
@@ -33,5 +33,5 @@ Persistent facts to remember across sessions (e.g. scheduled school-check tasks)
 ## Saturday weekly summary
 
 - Saturday's brief (in addition to the usual daily content) should be a longer, weekly-roundup version: highlights from the week's Arnold House emails (events, announcements, things covered), plus anything still open heading into next week. Fine for it to run longer than the weekday briefs.
-- Also include a "Tapestry this week" section listing anything found in a Tapestry Weekly Notification Summary email (see Tapestry section above) — titles + links, clearly labelled as a list of what was posted rather than a content summary.
+- Also include a "Tapestry this week" section listing anything found in that week's individual Tapestry notification emails (see Tapestry section above) — titles + links, clearly labelled as a list of what was posted rather than a content summary.
 - This can only draw on what arrived via email — see the Tapestry limitation above. Don't claim to have checked Tapestry itself or browsed its content.
