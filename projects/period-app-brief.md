@@ -39,3 +39,12 @@ Running list of what Phoebe wants for the one-tap period tracker. Research behin
 
 ### Never
 - Ads, account sign-up, community/forums, content feeds, streaks/badges, "cycle syncing" advice.
+
+## Calendar (avoid the usual fiddliness)
+- Calendar is mainly for looking; logging happens on the home screen/widget.
+- To fix a day: tap it → the same four big flow buttons slide up (plus "None"). No separate edit mode.
+- Fill a whole period at once by dragging a finger across days.
+- Big day cells; one month per screen, swipe between months.
+- Logged days = solid colour wash by flow; predicted days = soft outline/tint; fertile window = gentle band. Tiny key, no mystery symbols.
+- Undo toast after every change.
+- Visual references: Timepage (colour-wash month), Daylio Year in Pixels (year view), How We Feel (soft palette), Stardust (mood).
