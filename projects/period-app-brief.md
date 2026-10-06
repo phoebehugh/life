@@ -48,3 +48,17 @@ Running list of what Phoebe wants for the one-tap period tracker. Research behin
 - Logged days = solid colour wash by flow; predicted days = soft outline/tint; fertile window = gentle band. Tiny key, no mystery symbols.
 - Undo toast after every change.
 - Visual references: Timepage (colour-wash month), Daylio Year in Pixels (year view), How We Feel (soft palette), Stardust (mood).
+
+## Common design complaints → how we avoid them
+- Pink, flowery, babyish → warm non-pink palette, grown-up tone.
+- Gendered / assumes everyone is a woman trying for a baby → neutral language; user picks their goal (just tracking / trying to conceive).
+- Pop-ups & upsells on open → none. App opens straight to today.
+- Cluttered home (articles, stories, tips) → two facts + log buttons only.
+- Huge symptom grids → max ~3 optional extras.
+- Embarrassing lock-screen notifications ("fertile today!") → discreet wording by default (e.g. "Quick check-in"), detail only inside app; widget can hide info.
+- Anxious language ("high chance of pregnancy", "period LATE") → calm, plain wording.
+- Overconfident single-date predictions that keep jumping → ranges that narrow as data grows.
+- Long onboarding + forced sign-up → no account; 2 questions max, or import from Apple Health.
+- Pregnancy/baby content that's hard to escape (painful after a loss) → no baby content pushed; pregnancy mode easy to pause/end with care.
+- Irregular cycles treated as errors → irregular is normal; just widen the range.
+- Redesigns that remove features / hard to export → keep it small and stable; one-tap export (CSV/PDF).
