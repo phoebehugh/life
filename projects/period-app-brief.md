@@ -5,7 +5,7 @@ Running list of what Phoebe wants for the one-tap period tracker. Research behin
 
 ## Core idea
 - Unbelievably simple: open the app, tap today's flow, done. Should become a habit.
-- Clean, pared-back design that's still colourful. Avoid the clichéd period-app pink.
+- Clean, pared-back design that's still colourful. Pink is fine (it's just for me), but grown-up, not girly.
 
 ## Flow labels
 - Shortlisted: Drizzle / Shower / Downpour (weather theme), with 1/2/3 filling drop icons; "Mist" for spotting.
@@ -50,7 +50,7 @@ Running list of what Phoebe wants for the one-tap period tracker. Research behin
 - Visual references: Timepage (colour-wash month), Daylio Year in Pixels (year view), How We Feel (soft palette), Stardust (mood).
 
 ## Common design complaints → how we avoid them
-- Pink, flowery, babyish → warm non-pink palette, grown-up tone.
+- Flowery, babyish → grown-up palette and tone (pink is fine).
 - Gendered / assumes everyone is a woman trying for a baby → neutral language; user picks their goal (just tracking / trying to conceive).
 - Pop-ups & upsells on open → none. App opens straight to today.
 - Cluttered home (articles, stories, tips) → two facts + log buttons only.

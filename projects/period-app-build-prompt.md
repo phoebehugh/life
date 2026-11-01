@@ -28,7 +28,7 @@ You are building version 1 of a calm, private, one-tap period tracker for iPhone
 6. Accessibility pass (VoiceOver labels, Dynamic Type, Reduce Motion, dark mode, 44pt targets) and the acceptance checklist in section 9 of the functional brief.
 
 **Design guidance**
-Follow the design brief's goals: calm like Headspace, colourful but pared back, rounded, lots of space, one thing per screen, no pink clichés, no streaks or badges, no pop-ups. Put all colours, type and spacing in one theme file of design tokens so a designer can restyle the app later without touching screens. Use placeholder tokens from the "Dawn" direction (warm cream background, terracotta flow scale, sage fertile colour, soft serif for large numbers) until the final design arrives.
+Follow the design brief's goals: calm like Headspace, colourful but pared back, rounded, lots of space, one thing per screen, pink is fine but grown-up, not candy or girly, no streaks or badges, no pop-ups. Put all colours, type and spacing in one theme file of design tokens so a designer can restyle the app later without touching screens. Use placeholder tokens from the "Dawn" direction (warm cream background, terracotta flow scale, sage fertile colour, soft serif for large numbers) until the final design arrives.
 
 **Copy**
 Warm, plain, brief. Use the examples in the design brief's Voice and copy table. Never alarming words ("LATE", "HIGH chance"), never imply contraception, never mention streaks or missed days.

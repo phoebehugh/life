@@ -7,7 +7,7 @@
 We are designing a period tracker that does one thing beautifully: you open it, tap how heavy today's flow is, and you're done in under two seconds.
 
 - **The problem:** popular apps like Flo and Clue have become cluttered, pushy and anxious. Users complain about upgrade pop-ups, paywalled basics, endless symptom grids, fiddly calendars, alarming notifications and privacy worries.
-- **Who it's for:** anyone who wants to know when their period is coming and roughly when they ovulate, without the noise. That includes people trying to conceive, people who just want dates, and people noticing changes in their 40s.
+- **Who it's for:** me. It's a personal app for my own use: knowing when my period is coming, timing ovulation while trying to conceive, and noticing changes over time, without the noise.
 - **The promise:** as calm as Headspace, as simple as a light switch, honest about what it knows.
 - **Platform:** iPhone first (with Home Screen widget, Lock Screen control and Apple Health sync). Android later.
 
@@ -25,7 +25,7 @@ We are designing a period tracker that does one thing beautifully: you open it, 
 
 | Common complaint | Our answer |
 | --- | --- |
-| Too pink, flowery, babyish | Warm, non-pink palette; grown-up tone |
+| Flowery, babyish, candy pink | Grown-up palette and tone (pink is fine, just not candy or girly) |
 | Assumes everyone is a woman trying for a baby | Neutral language; user picks a goal (just tracking / trying to conceive) |
 | Upgrade pop-ups on every open | None. App opens straight to today |
 | Home screens full of articles, stories, tips | Two facts plus the log buttons |
@@ -105,7 +105,7 @@ The visual language is yours to create. This section sets the goals and the guar
 
 ### Guardrails
 
-- **Avoid** the period-app clichés: pink and purple, flowers, petals, hearts, glitter, blood-red.
+- **Avoid** the girly clichés: flowers, petals, hearts, glitter, blood-red. Pink is welcome, as long as it feels grown-up (dusty rose, blush, coral) rather than candy pink.
 - **Avoid** clinical coldness: stark white, hospital blues, charts on the home screen.
 - **Avoid** gamification: confetti, badges, streak counters.
 - **Must** meet accessibility basics (see the next sections): contrast, 44pt targets, Dynamic Type, dark mode, never colour alone.
